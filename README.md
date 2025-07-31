@@ -1,6 +1,6 @@
 # Clasificador de Edad y Género con IA
 
-## Descripción del Proyecto
+## Descripción del Proyecto asdasd
 
 Este proyecto utiliza **3 modelos de PyTorch** para clasificar edad y género de personas en imágenes:
 
